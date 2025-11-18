@@ -10,7 +10,7 @@ I'm an AWS re/Start alumni from batch PHMAN28 exploring cloud computing and IT f
 ## 📫 How to reach me
 
 - Email: giangarcia479@gmail.com  
-- LinkedIn: [Gian Yves Garcia](www.linkedin.com/in/gian-yves-garcia-980b24309)
+- LinkedIn: [Gian Yves Garcia](https://www.linkedin.com/in/gian-yves-garcia-980b24309)
 <!--
 **gianyves/gianyves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
