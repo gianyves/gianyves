@@ -1,13 +1,14 @@
 ## Hi I'm Gian Yves 👋
 
-I'm an AWS re/Start alumni from batch PHMAN28 exploring cloud computing and IT fundamentals. I’m documenting my learning journey here through small projects and practice lab.
+I'm an AWS Certified Cloud Practitioner and AWS re/Start alumni from batch PHMAN28 exploring cloud computing and IT fundamentals. I’m documenting my learning journey here through small projects and practice lab.
 
 ## 🏆 Certifications & Badges
 
-![Cloud Quest Cloud Practitioner - Trained](badges/aws-cloud-quest-cloud-practitioner-training-badge.png)
+![AWS Certified Cloud Practitioner](badges/aws-certified-cloud-practitioner.png)
 ![AWS re/Start Graduate](badges/aws-re-start-graduate.png)
+![Cloud Quest Cloud Practitioner - Trained](badges/aws-cloud-quest-cloud-practitioner-training-badge.png)
 
-## 📫 How to reach me
+## 📫 You can reach me with these
 
 - Email: giangarcia479@gmail.com  
 - LinkedIn: [Gian Yves Garcia](https://www.linkedin.com/in/gian-yves-garcia-980b24309)
